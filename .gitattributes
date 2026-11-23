@@ -1,0 +1,2 @@
+Data_Files/*.csv filter=lfs diff=lfs merge=lfs -text
+Data_Files/*.txt filter=lfs diff=lfs merge=lfs -text
